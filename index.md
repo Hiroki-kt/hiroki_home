@@ -8,3 +8,7 @@ NAIST Robotics lab. M2
 - 2018.4.1-	NAIST 
 
 ## PROJECT
+comming soon...
+
+## CONTACT
+mail: katayama.hiroki.kb3@is.nasit.jp
