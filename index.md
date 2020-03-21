@@ -1,4 +1,3 @@
-# KATAYAMA Hiroki
 ![image-title-here](./image/intro_photo.JPG)
 
 ### History
